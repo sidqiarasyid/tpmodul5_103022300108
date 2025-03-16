@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
 public class DataGeneric<T>
 {
     T data;
@@ -20,5 +19,4 @@ class Run
         data.printData();
     }
 }
-
 
